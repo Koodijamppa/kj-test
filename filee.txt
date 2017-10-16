@@ -1,0 +1,8 @@
+
+// Oli muuten tosi hyvää poronfilettä!
+
+int main(void) {
+	printf("koira\n");
+	return 0;
+}
+
