@@ -9,7 +9,19 @@ int main(void)
 	char s[] = "koira kissa turska naakka konna pissakakkapieru-hirviö";
 	// missähän se syntax highlight viipyy?
 	printf("%s = %.2f\n", s, kertolasku(5.5, 1.1234));
+
+	printf("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaahh!\n");
+	printf("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaahh!\n");
+	printf("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaahh!\n");
+	printf("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaahh!\n");
+	printf("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaahh!\n");
+	printf("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaahh!\n");
+
+
 	return (int)kertolasku(5, 7.5);
+
+	
+	
 }
 
 
